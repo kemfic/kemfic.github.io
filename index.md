@@ -1,5 +1,3 @@
-coming soon
-
 [github](https://github.com/kemfic)
 
 [youtube](https://youtube.com/kemalficici)
