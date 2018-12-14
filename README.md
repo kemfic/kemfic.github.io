@@ -1,5 +1,3 @@
-kemal ficici
----
 coming soon
 
 [github](https://github.com/kemfic)
